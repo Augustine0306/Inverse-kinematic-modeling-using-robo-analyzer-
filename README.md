@@ -36,24 +36,33 @@ Finally, inverse kinematics algorithms calculate the exact position of each of t
 ![image](https://user-images.githubusercontent.com/36288975/170623020-f27efc12-bb58-4f62-840d-af544ac6689e.png)
 
 ### PROCEDURE:
-
-
-
-
-
-
-
+1.open the roboanalyzer software.
+2.select the robot and its degrees of freedom.
+3.change the values of X and Y wherever necessary.
+4.simulate the model for inverse kinematics.
+5.plot the graph between the joints.
+6.update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
- 
- 
- 
- 
- 
- 
- 
+## RPR ROBOT:
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/49e3809f-c43e-4dea-8f4c-fad80e32f111)
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/c44972ff-f4da-47a7-9c80-1b0f64b59af7)
+
+## 3R ROBOT:
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/19290da8-ee0e-49e7-9489-c131f3162536)
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/4a95e518-6db5-413c-ae42-0c9b109c33fb)
+
  ### PLOT 
- 
+ ## RPR ROBOT:
+ ![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/ebdcab5d-8862-476a-b347-fe39d841f936)
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/fa11e0d1-fb5e-4816-96a7-af21b4d83998)
+
+## 3R ROBOT:
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/80d1ca11-d060-4029-bb93-9218b9e000e0)
+![image](https://github.com/Augustine0306/Inverse-kinematic-modeling-using-robo-analyzer-/assets/119404460/ca896628-b330-421a-9c53-83b71c433aed)
+
+### RESULTS :
+Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer is analysed and the graph of joint angle for a given input end effector position is plotted.
  
  
  
