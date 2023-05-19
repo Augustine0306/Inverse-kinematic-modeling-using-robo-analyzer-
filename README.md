@@ -70,25 +70,3 @@ Thus,the inverse kinematics using DH parameters for a 3 dof planer and 3 dof art
  
  
  
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### RESULTS :  
